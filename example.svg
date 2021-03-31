@@ -1,9 +1,9 @@
 <svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="700" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul style="background-color:yellow">
-            <li>text</li>
-        </ul>
+        <div style="background-color:black">
+            <image href="https://github.com/Mentor-Khojiakbar/Functions/blob/main/logo.svg"></image>
+        </div>
         <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>

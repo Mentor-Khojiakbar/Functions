@@ -1,10 +1,5 @@
-```diff
-- text in black
-+ text in black
-! text in black
-# text in black
-@@ text in purple (and bold)@@
-```
+![alt text](http://url/to/img.png)
+![alt text](https://github.com/Mentor-Khojiakbar/Functions/main/Rectangle 20.jpg?raw=true)
 # Практическое задание на тему Функции
 
 #### 1. Получите два целых числа (a и b) от пользователя, вычислите сумму чисел от a до b.

@@ -2,7 +2,7 @@
 <foreignObject width="700" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <div style="background-color:black">
-            <image href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"/>
+            <img src="./logo.svg" />
             <h1 style="color:white">ЛАБОРАТОРНАЯ РАБОТА</h1>
         </div>
     </div>

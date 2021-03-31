@@ -7,6 +7,9 @@
       -Создайте функцию sum_ab, которая принимает два целых числа и возвращает сумму чисел от a до b.
 
 | 1   10 | 55 |
+{% spoiler "Hint" %}
+You're really not going to like it.
+{% endspoiler %}
 
 {% next "Задание 2" %}
 #

@@ -1,5 +1,5 @@
 
-![ text]+(https://github.com/Mentor-Khojiakbar/Functions/blob/main/header.svg?raw=true)
+![alt text](https://github.com/Mentor-Khojiakbar/Functions/blob/main/header.svg?raw=true)
 # Заголовок задания:
 (Текстовый блок. Ортогональный определитель, исключая очевидный случай, ускоряет косвенный определитель системы линейных уравнений, что неудивительно. Бином Ньютона реально продуцирует ортогональный определитель. Поле направлений порождает эмпирический предел функции.?color=yellow) 
 

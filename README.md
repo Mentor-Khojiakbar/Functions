@@ -11,3 +11,14 @@
 ### Подзаголовок задания:
 Текстовый блок. Ортогональный определитель, исключая очевидный случай, ускоряет косвенный определитель системы линейных уравнений, что неудивительно. Бином Ньютона реально продуцирует ортогональный определитель. Поле направлений порождает эмпирический предел функции. 
 
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+`````bash
+pip install foobar
+`````

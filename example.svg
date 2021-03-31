@@ -1,7 +1,7 @@
 <svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="700" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <image href="https://github.com/Mentor-Khojiakbar/Functions/blob/main/logo.png" height="200" width="200"></image>
+          <image href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" height="200" width="200"/>
         <div style="background-color:black">
             
             <h1 style="color:white">ЛАБОРАТОРНАЯ РАБОТА</h1>

@@ -1,4 +1,4 @@
-![alt MATE Programming Lab Work](https://github.com/Mentor-Khojiakbar/Functions/blob/main/logo.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/Mentor-Khojiakbar/Functions/blob/main/logo.svg?raw=true)
 
 # Практическое задание на тему Функции
 

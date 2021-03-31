@@ -1,5 +1,9 @@
-<svg width="700" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
         <div style="background-color:black">
                 <h1 style="color:white">ЛАБОРАТОРНАЯ РАБОТА</h1>
         </div>
+    </div>
+</foreignObject>
 </svg>

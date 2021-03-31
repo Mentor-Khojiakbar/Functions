@@ -1,16 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-<foreignObject>
+<svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="700" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <div style="background-color:black">
-            <img src="" alt="logo" />
-            <h1 style="color:white">ЛАБОРАТОРНАЯ РАБОТА 1</h1>
-        </div>
         <ul style="background-color:yellow">
             <li>text</li>
         </ul>
-        <h1>
-            Заголовок задания:
-        </h1>
+        <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>
 </svg>

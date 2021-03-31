@@ -19,6 +19,6 @@ Foobar is a Python library for dealing with word pluralization.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-`bash
+`.bg-gray-dark
 pip install foobar
 `

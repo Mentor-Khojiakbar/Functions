@@ -22,3 +22,9 @@
       -Создайте функцию, которая принимает четыре аргумента x, a, b, c. Вернуть результат a * x ^ 2 + b * x + c
 
 {% next %}
+{% spoiler %}
+The Answer to the Great Question... 
+Of Life, the Universe and Everything...
+Is...
+Forty-two.
+{% endspoiler %}

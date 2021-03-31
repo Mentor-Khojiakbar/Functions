@@ -1,8 +1,8 @@
-<svg width="1200" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="1200">
+<svg width="1200" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="1200" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <div style="padding-left:50px">
-            <h1>text</h1>
+            <h1 style="font-size:18px">text</h1>
         </div>
         <!-- Other embed HTML element/text into SVG -->
     </div>

@@ -1,9 +1,9 @@
 <svg width="1200" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="1200" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
+        <div>
             <li>text</li>
-        </ul>
+        </div>
         <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>

@@ -19,10 +19,8 @@ Foobar is a Python library for dealing with word pluralization.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```diff
-- text in red
-+ text in green
-? text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+The Answer to the Great Question... 
+Of Life, the Universe and Everything...
+Is...
+Forty-two.
+{% endspoiler %}

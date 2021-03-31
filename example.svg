@@ -1,5 +1,5 @@
 <svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject height="100">
+<foreignObject width="700" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul style="background-color:yellow">
             <li>text</li>

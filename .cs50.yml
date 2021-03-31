@@ -2,7 +2,7 @@ lab50:
   window:
     - editor
     - readme
-    - terminal
+    
   files:
     - !include instruction.txt
     - !include problem1.py

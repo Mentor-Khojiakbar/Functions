@@ -1,8 +1,8 @@
 ```diff
-- text in red
-+ text in green
+- text in black
++ text in black
 ! text in black
-# text in gray
+# text in black
 @@ text in purple (and bold)@@
 ```
 # Практическое задание на тему Функции

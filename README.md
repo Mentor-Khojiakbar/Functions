@@ -22,7 +22,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```diff
 - text in red
 + text in green
-! text in orange
+? text in orange
 # text in gray
 @@ text in purple (and bold)@@
 ```
